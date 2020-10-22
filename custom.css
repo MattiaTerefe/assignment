@@ -1,0 +1,10 @@
+.form {
+  width: 300px;
+  text-align: right;
+}
+#seniority,
+#titolo,
+#skills,
+#categoria {
+  margin-left: 10px;
+}
